@@ -6,10 +6,10 @@ on:
     - main
 
 env:
-  UNIQUE_APP_NAME: orleanscart
+  UNIQUE_APP_NAME: ajoubert-orleans-aca
   SILO_IMAGE_NAME: orleanscart-silo
-  AZURE_RESOURCE_GROUP_NAME: orleans-resourcegroup
-  AZURE_RESOURCE_GROUP_LOCATION: eastus
+  AZURE_RESOURCE_GROUP_NAME: ajoubert-container-apps
+  AZURE_RESOURCE_GROUP_LOCATION: centralus
 
 jobs:
   build-and-deploy:
