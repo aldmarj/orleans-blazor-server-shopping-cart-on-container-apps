@@ -54,3 +54,5 @@ The Orleans.ShoppingCart.Silo project uses the following open3rd party-source pr
 - [Blazorators](https://github.com/IEvangelist/blazorators): Source-generated packages for Blazor JavaScript interop.
 
 Derived from [IEvangelist/orleans-on-container-apps](https://github.com/IEvangelist/orleans-on-container-apps).
+
+Lets deploy
